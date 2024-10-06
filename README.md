@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nisha
 - 👀 I’m a Computer Science student passionate about Artificial Intelligence and Machine Learning.
-- 🌱 I love exploring new technologies and applying them to solve real-world problems.
+- 🌱 I like exploring new technologies and applying them to solve real-world problems.
 - My Skills :
  Programming Languages: Python, C++  
  Machine Learning: Scikit-learn, TensorFlow, Keras   
